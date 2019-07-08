@@ -1,0 +1,18 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": false,
+  "window.zoomLevel": 1,
+  "workbench.startupEditor": "newUntitledFile",
+  "files.autoSave": "onWindowChange",
+  "editor.tabSize": 2,
+  "projectManager.git.baseFolders": [
+    "$home/projects/simplybusiness"
+  ],
+  "window.openFoldersInNewWindow": "on",
+  "workbench.colorTheme": "Fresh Material",
+  "ruby.intellisense": "rubyLocate",
+  "ruby.codeCompletion": "rcodetools",
+  "ruby.useLanguageServer": true,
+  "ruby.rubocop.onSave": false,
+  "files.trimFinalNewlines": true
+}
